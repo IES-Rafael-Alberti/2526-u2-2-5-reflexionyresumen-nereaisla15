@@ -48,10 +48,10 @@ Pues bueno me gustaría ver mejor como montar un SIEM en clase pero que lo vaya 
 | Sección | Contenido | Prácticas / Ejemplos |
 |---------|-----------|--------------------|
 | **2.1 Taxonomía de incidentes** | Clasificación de incidentes: accesos no autorizados, malware, fuerza bruta, phishing, DoS. Permite priorizar y estandarizar la respuesta. | Práctica 2.1: Clasificación de incidentes según tipología e impacto |
-| **2.2 SOC – Servicios y herramientas** | Monitorización continua, gestión de incidentes, roles: analistas N1, N2, N3, responsables de seguridad | - |
+| **2.2 SOC – Servicios y herramientas** | Monitorización continua, gestión de incidentes, roles: analistas N1, N2, N3, responsables de seguridad | Mirar los apuntes |
 | **2.2.2 SIEM** | **Qué es:** Sistema de gestión de eventos y logs, correlaciona eventos y genera alertas. <br> **Casos de uso:** Detección de fuerza bruta, accesos fuera de horario, actividad anómala. <br> **Implantación:** Instalación, integración de logs, reglas de correlación, alertas. <br> **Evolución:** Integración con SOAR, IA, análisis avanzado. | Práctica 2.2: SIEM (ELK) e IDS (Snort) – instalación, envío de logs, creación de alertas |
 | **2.3 Fuentes Abiertas – OSINT** | Obtención de información de fuentes públicas. Investigación desde nombres, imágenes, usuarios. Riesgos de exposición digital. Uso en análisis de amenazas. | Ejemplos prácticos vistos en la charla de Córdoba |
-| **2.4 Documentación** | **Documentación de incidentes:** registro de acciones, evidencias, trazabilidad, importancia legal. <br> **Informes técnicos:** lenguaje claro, estructura formal, datos objetivos, conclusiones justificadas. | - |
+| **2.4 Documentación** | **Documentación de incidentes:** registro de acciones, evidencias, trazabilidad, importancia legal. <br> **Informes técnicos:** lenguaje claro, estructura formal, datos objetivos, conclusiones justificadas. | Todos los trabajos que hemos documentado |
 
 
 ### 2.1) Mapa/índice de la unidad (visión global)

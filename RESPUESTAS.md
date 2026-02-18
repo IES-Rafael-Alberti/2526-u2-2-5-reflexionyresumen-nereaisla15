@@ -190,17 +190,29 @@ Pues bueno me gustaría ver mejor como montar un SIEM en clase pero que lo vaya 
 ## 3) (Opcional) Evidencias y recursos usados
 
 ### Evidencia 1
-- Archivos: [evidencias](/evidencias/siemprueba.PNG) [evidencias](/evidencias/siemprueba.PNG)
-
+- Archivos: [evidencias](/evidencias/siemprueba.PNG)
 - Qué demuestra: La correcta clasificación y priorización de distintos tipos de incidentes según su impacto y criticidad.
 - Qué he aprendido: Cómo estructurar la información de los incidentes para facilitar la gestión y toma de decisiones, y la importancia de la taxonomía para estandarizar procesos en un SOC.
 
 ### Evidencia 2
-- Archivo: `evidencias/02_siem_elk_snort.md`
+- Archivos: [evidencias](/evidencias/siemprueba2.PNG)
 - Qué demuestra: La instalación y configuración de un SIEM (ELK) y un IDS (Snort), así como la creación de alertas y la monitorización de eventos.
 - Qué he aprendido: Cómo recopilar y analizar logs, correlacionar eventos y generar alertas útiles; además, la práctica me permitió entender mejor el flujo de trabajo dentro de un SOC y la relevancia de la documentación en cada paso.
 
+### Evidencia 3
+- **Archivos:** [evidencias](/evidencias/taxonomia.PNG)  
+- **Qué demuestra:** La imagen muestra cómo se debe documentar cada caso específico siguiendo una estructura clara y saber agruparla 
+- **Qué he aprendido:** He aprendido la importancia de agrupar y clasificar cada caso de manera sistemática. Esto no solo facilita la organización de la información, sino que también permite un análisis más ordenado y estructurado para entenderlo mejor.
 
+### Evidencia 4
+- **Archivos:** [evidencias](/evidencias/taxonomia2.PNG)  
+- **Qué demuestra:** La imagen de donde saco la información que utilice para ese trabajo, son los apuntes de clase. 
+- **Qué he aprendido:** He aprendido a investigar y mirar bien los apuntes para hacer las tareas lo mejor posible.
+
+### Evidencia 5
+- **Archivos:** [evidencias](/evidencias/osintprueba.PNG)  
+- **Qué demuestra:** La imagen muestra el trabajo que tuve que hacer de los retos de osint para aprender a utilizar herramientas pasivas e investigar.
+- **Qué he aprendido:** He aprendido a investigar y a utilizar las herramientas
 
 ## 4) Conclusión (cierre)
 - 

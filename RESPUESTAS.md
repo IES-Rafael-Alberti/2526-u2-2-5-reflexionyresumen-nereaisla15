@@ -214,5 +214,9 @@ Pues bueno me gustaría ver mejor como montar un SIEM en clase pero que lo vaya 
 - **Qué demuestra:** La imagen muestra el trabajo que tuve que hacer de los retos de osint para aprender a utilizar herramientas pasivas e investigar.
 - **Qué he aprendido:** He aprendido a investigar y a utilizar las herramientas
 
-## 4) Conclusión (cierre)
-- 
+## 4) Conclusión 
+Esta unidad me ha permitido comprender cómo funciona de forma real un entorno de ciberseguridad, desde la clasificación de incidentes hasta el trabajo dentro 
+de un SOC y el uso de un SIEM. He entendido la importancia de la documentación, la organización y el análisis técnico en cada fase del proceso.
+
+La parte de OSINT ha sido la más impactante, porque me ha hecho reflexionar sobre la exposición digital y el valor de la información pública. Además, he mejorado 
+en redacción técnica y en la exposición oral, lo que supone un avance importante para mi desarrollo profesional.
